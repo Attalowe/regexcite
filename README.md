@@ -27,7 +27,8 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(regexcite)
 ## basic example code
-```
+```x <- "alfa,bravo,charlie,delta")
+strsplit(x, split = ",")
 
 What is special about using `README.Rmd` instead of just `README.md`?
 You can include R chunks like so:
