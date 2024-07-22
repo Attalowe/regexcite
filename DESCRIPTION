@@ -16,3 +16,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stringr
+URL: https://github.com/Attalowe/regexcite
+BugReports: https://github.com/Attalowe/regexcite/issues
